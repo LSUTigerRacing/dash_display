@@ -1,5 +1,10 @@
-# dash_display
-This repository will contain the logic of the dash that will be responsible for displaying data.
+# dash_pi
+This repository will contain the logic of the Raspberry PI.
+
+Responsibilities of this chip include:
+- Display Driver
+- Writing data to SD card
+- Sending information wirelessly to website
 
 ## 🧑‍💻 Contribution Guide
 
